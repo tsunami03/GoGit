@@ -1,1 +1,3 @@
 I did not fully understand the difference between merge and rebase
+Git and Github is utilised to facilitate an organised workflow for open source projects since 
+a lot of people work on the same code, it becomes necessary to have proper logs for all the changes.
