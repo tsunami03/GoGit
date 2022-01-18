@@ -1,1 +1,18 @@
+BuddyLongLegs:
+She must use the git fetch command
+
+Atharva-gadekar
 git fetch
+
+maheshwariparth:
+git pull
+
+vipuljain100:
+git fetch 
+
+yashg-116:
+pull command
+
+tsunami03:
+git fetch
+
