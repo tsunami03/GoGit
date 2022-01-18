@@ -9,3 +9,7 @@ git pull
 
 vipuljain100:
 git fetch 
+
+yashg-116
+pull command
+
